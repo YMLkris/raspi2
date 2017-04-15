@@ -27,8 +27,8 @@ import socket            # socket used to get host name/IP
 ## Phant Stuff ##
 #################
 server = "data.sparkfun.com" # base URL of your feed
-publicKey = "6JZbNolApzF4om2l9yYK" # public key, everyone can see this
-privateKey = "Ww0vPW1yrkUNDqWPV9jE"  # private key, only you should know
+publicKey = "LQgoq0ZOlocxM36EJ0EV" # public key, everyone can see this
+privateKey = "A1Wjv2ZPDjSyGD51VZ12"  # private key, only you should know
 fields = ["light", "switch", "name"] # Your feed's data fields
 
 ######################
